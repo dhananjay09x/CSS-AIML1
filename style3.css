@@ -1,0 +1,23 @@
+div{
+    margin: center;
+
+    width: 50%; 
+  margin: 0 auto;
+
+    padding: 40px;
+    border: 1px solid black;
+    margin: 20px;
+
+}
+
+p{
+    color: purple;
+    text-align: center;
+}
+.a{
+    color: red;
+    text-align: left;
+}
+#ab{
+    font-size: x-large;
+}
